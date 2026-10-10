@@ -1,0 +1,5 @@
+# Secrets
+.env
+
+# video-use session outputs (renders, transcripts, intermediates)
+edit/
