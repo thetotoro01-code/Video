@@ -3,3 +3,4 @@
 
 # video-use session outputs (renders, transcripts, intermediates)
 edit/
+__pycache__/
